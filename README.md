@@ -41,8 +41,8 @@ Everyday Functioning Prompts:
 
   OUTPUT:
 
-  
- The prompts for the three types—Comparative Analysis Prompt, Experiential Perspective Prompt, and Everyday Functioning Prompt—were successfully generated using the given scenarios. Each prompt type was clearly understood and applied to create meaningful example prompts that reflect different ways of interacting with AI systems. This experiment demonstrates how properly structured prompts help in obtaining specific, relevant, and informative responses from AI tools.
+
+[PE Ex04.pdf](https://github.com/user-attachments/files/25965257/PE.Ex04.pdf)
 
  
   RESULT:
